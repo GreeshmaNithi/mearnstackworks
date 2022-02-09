@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;1,100;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;1,100;1,300;1,400&family=Shizuru&display=swap');
+h1{
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    font-family: 'Shizuru', cursive;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+}

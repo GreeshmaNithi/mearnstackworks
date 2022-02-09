@@ -1,0 +1,28 @@
+div{
+    width: 50%;
+    height: 300px;
+    background-color: rgb(250, 237, 237);
+    /* padding: 100px; */
+    padding-left: 50px;
+
+    /* padding
+    padding-left
+    padding-right 
+    padding -top
+    padding-bottom  */
+
+}
+p{
+    color: rgb(6, 6, 7);
+}
+
+/* discendant selector: which is used to select a particular
+paragraph that is reside in the div tag */
+
+div p{
+    color: rgb(2, 2, 2);
+}
+h1{
+    text-align: center;
+    /* text-align: ; */
+}

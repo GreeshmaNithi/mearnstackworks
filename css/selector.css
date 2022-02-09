@@ -1,0 +1,21 @@
+/* selectors */
+/* 1.tag selector.....eg:call by using tag name and curly braces */
+/* 2.id selector.... eg. create an id in html file then call that id by using # (hash) in css file */
+/* 3.class selector...... eg. call a class selector by using a dot operator and curly braces */
+
+
+h1{
+    color: blue;
+}
+#a1{
+    color: brown;
+}
+#a2{
+    color: chocolate;
+}
+.c1{
+    color: cyan;
+}
+.c2{
+    color: darkblue;
+}

@@ -1,0 +1,16 @@
+div{
+    background-color: black;
+    color: blanchedalmond;
+    border: white 1px solid;
+}
+.coffee{
+    display: flex;
+    height: 100px;
+    width: 100%;
+    background-color: salmon;
+}
+.cc1{
+    height: 100px;
+    width: 100%;
+    border: red 1px solid;
+}

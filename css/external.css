@@ -1,0 +1,22 @@
+h1{
+    /* open browser->search color picker->value of hexadecimal copy it->paste it into the code */
+    /* method1 */
+    /* color: #32a852; */
+    /* or */
+    /* method2 */
+    /* copy the value of rgb format */
+    color: rgb(16, 31, 20);
+    
+}
+body{
+    background-color: rgb(46, 165, 42);
+}
+
+/* to style in division */
+div{
+    background-color: cadetblue;
+    height: 300px;
+    width: 800px;
+    /* we can add border has color thickness and type */
+    border: black 2px solid;
+}
